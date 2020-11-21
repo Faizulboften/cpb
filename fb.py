@@ -12,6 +12,7 @@ def clear():
 def baner():
     print('\t\033[91m~\033[94mFB\033[00m Crack From Public\033[91m~\033[00m\n')
     print('\t\033[93m<\033[90m--------------------\033[93m>\033[00m')
+    print('\t\003[33;1mtracker Password\033[33;1m')
 die=0
 chek=0
 result=0
